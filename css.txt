@@ -1,1 +1,5 @@
+titulo
+nombre
+carrera
+tema
 css
