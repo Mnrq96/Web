@@ -3,3 +3,6 @@ nombre
 carrera
 tema
 css
+
+cambio de color de titulo
+color de fuente #999
